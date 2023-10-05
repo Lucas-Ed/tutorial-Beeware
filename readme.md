@@ -18,4 +18,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologia:
 
 ## 🔖 Layout Web
 
-![](img/web.png)
+![](img/web.gif) 
+
+
+## 🔖 Layout Desktop
+
+![](img/desktop.gif) 
+
