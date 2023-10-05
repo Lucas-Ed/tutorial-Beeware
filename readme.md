@@ -5,7 +5,7 @@
 
 <p align="center">
 
-Este ![tutorial](https://blog-tab-news.vercel.app/blog/tutorial-seu-primeiro-app-nativoandroid-ios-tvos-web-etc-com-beeware), é a base para criação de projetos com o framework BeeWare, o projeto é um Hello word, um 1° projeto usando o framework.
+Este [tutorial](https://blog-tab-news.vercel.app/blog/tutorial-seu-primeiro-app-nativoandroid-ios-tvos-web-etc-com-beeware), é a base para criação de projetos com o framework BeeWare, o projeto é um Hello word, um 1° projeto usando o framework.
   
 </p>
 
